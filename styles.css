@@ -1,0 +1,56 @@
+body {
+
+    background-color: #EFCF83;
+}
+
+#div-title {
+
+    background-color: #54786aff;
+    border: 2px solid black;
+    margin: 1vh 1vw 1vh 1vw;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Cherry Cream Soda";
+}
+
+
+
+#box-1 {
+
+    display: inline;
+    float: left;
+    vertical-align: top;
+    background-color: #624b1cff;
+    border: 2px solid black;
+    margin: 1vh 1vw 1vh 1vw;
+    width: 60vw;
+    height: 30vh;
+}
+
+#box-1 * {
+
+    padding-left: 1vw;
+    font-family: "Architects Daughter";
+    font-size: calc(0.7vw + 0.7vh);
+}
+
+
+
+#box-2 {
+
+    display: inline;
+    float: right;
+    vertical-align: top;
+    background-color: #aa5725ff;
+    border: 2px solid black;
+    margin: 30vh 1vw 1vh 1vw;
+    width: 33vw;
+    height: 40vh;
+}
+
+#box-2 * {
+
+    padding-left: 1vw;
+    font-family: "Architects Daughter";
+    font-size: calc(0.7vw + 0.7vh);
+}
